@@ -4,7 +4,7 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   margin-top: 1rem;
   width: 100%;
 }
@@ -21,22 +21,4 @@
   max-width: 100%;
   overflow: hidden;
   /* height: 40rem; */
-}
-
-#sidebarContainer {
-  display: none;
-}
-
-
-#mainContainer {
-}
-
-
-.toolbar {
-  display: none;
-}
-
-
-#viewerContainer {
-  top: 0px;
 }

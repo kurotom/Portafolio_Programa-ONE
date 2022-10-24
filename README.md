@@ -36,6 +36,9 @@ Aquí puedes poner las formaciones y cursos que has realizado, aunque no esté e
 * Debe tener experiencia en la sección de programación.
 Aquí puedes poner los proyectos que ya has realizado anteriormente, como por ejemplo: los proyectos del retador principiante en programación.
 
+
+
+
 * Debe tener un formulario de contacto con los siguientes campos
 - Nombre - placeholder - <= 50 carácteres.
 - Correo electrónico - placeholder
@@ -49,6 +52,9 @@ Aquí puedes poner los proyectos que ya has realizado anteriormente, como por ej
 - Asunto - <= 50 carácteres - Mostrar error específico
 - Mensaje - <= 300 carácteres - Mostrar error específico
 - Botón de enviar - botón debe ser activado cuando los campos están llenos
+
+
+
 
 
 * Debe tener un Pie de página con la información de la persona que desarrolló el portafolio.
